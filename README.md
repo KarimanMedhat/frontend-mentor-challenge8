@@ -1,0 +1,1 @@
+In this project I used grid a lot for my first time and after a bit of time it became more easy to use. The main problem was sizing.
